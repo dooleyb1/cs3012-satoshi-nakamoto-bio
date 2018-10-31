@@ -47,12 +47,17 @@ Blockchain has also spread to industries such as refugee aid. The Ethereum block
 
 Medical records of patients are required to be consistent at all times. By moving health care records onto a blockchain based systems they would become immutable. This can be seen in the developments of the company TrustedHealth. They provide a direct connection between medical practitioners, patients and other service providers in the health sector.
 
+## Why Satoshi Nakamoto?
 
+The reason I chose to do my essay on Satoshi Nakamoto was mainly because of the fact that I have an avid interest in cryptocurrencies and blockchain technologies. I enjoy the idea of a world where one day we may not have to use third parties such as banks and other financial institutions and where all global wealth can rest upon a decentralized open-source ledger. 
 
-https://en.wikipedia.org/wiki/Satoshi_Nakamoto
-https://nakamotoinstitute.org/bitcoin/#selection-7.4-9.38
-https://www.businessinsider.com/michael-clear-denies-creating-bitcoin-2013-4?IR=T
-https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency
-https://medium.com/@JimiS/what-is-a-51-attack-or-double-spend-attack-aa108db63474
-https://www.brookings.edu/blog/techtank/2018/05/30/how-blockchain-could-improve-election-transparency/
-https://www.venafi.com/blog/4-new-uses-blockchain-beyond-cryptocurrency
+Satoshis original idea has spread and been built upon in amazing ways which are being used to benefit all aspects of society in a meaningful (and some otherwise) way. I find it hard to believe that Satoshi could have imagined what his original whitepaper would blossom into and hope that one day we may find the real Satoshi Nakamoto to say thanks to. And if not, so be it, let him be our Mona Lisa.
+
+## Sources
+[Wikipedia - Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+[Bitcoin Whitepaper](https://nakamotoinstitute.org/bitcoin/#selection-7.4-9.38)
+[Trinity's Satoshi Nakamoto - Business Insider](https://www.businessinsider.com/michael-clear-denies-creating-bitcoin-2013-4?IR=T)
+[Trinity's Satoshi Nakamoto - New Yorker](https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency)
+[Double Spending](https://medium.com/@JimiS/what-is-a-51-attack-or-double-spend-attack-aa108db63474)
+[Blockchain Elections](https://www.brookings.edu/blog/techtank/2018/05/30/how-blockchain-could-improve-election-transparency/)
+[Blockchain Applications](https://www.venafi.com/blog/4-new-uses-blockchain-beyond-cryptocurrency)
