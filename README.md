@@ -23,9 +23,36 @@ Following on from DigiCash the likes of PayPal began to emerge in 1998. These pr
 
 This paved the way for Satoshi's new currency - Bitcoin. Bitcoin would develop to be the first fully decentralized digital currency with a fully open-source underlying technology and a public encrypted ledger allowing the world to transparently see the distribution and transfer of the wealth held by the anonymous people who owned some Bitcoin. 
 
+## Double Spending
+
+One of the main reasons why digital currencies had not succeeded prior to Bitcoin was due to the double-spending problem. This is an issue where a digital token can be spent more than once, this can be seen in physical currencies in the case of counterfeit money where a person can create a new amount of fraudulent currency that did not previously exists which further leads to inflation. 
+
+To prevent this, commerce - both on the internet and in physical form - has relied on financial institutions and third parties to process payments and verify their validity. This third party validator requirement gives birth to an unnecessary demand for trust, merchants must be wary of their customers and hassle them for information in order to prevent fraud.
+
+## Proof-of-Work & Blockchain
+
+Satoshi proposed the design for an electronic payment system which would use cryptographic proof (hashes) instead of trust. As a result of using these cryptographic hashing functions as a provider of proof it allows the likeliness of the occurance of fraud to be significantly reduced whilst also removing the necessity of a (expensive) third party such as a financial institution. 
+
+The Bitcoin network can be considered as a large chain of blocks representing transactions with each block entirely dependent on the previous blocks validity. This validity is provided in the Bitcoin network by users performing a 'mining' operation to find the correct hash needed to validate a transaction within the network. In order for a transaction to be validated, a Bitcoin miner must perform the necessary proof-of-work to calculate/compute a hash that begins with the number of zero bits required at a given difficulty. Satoshi proposed a proof-of-work method where the average work required is exponential in the number of zero bits required and can be verified by executing a single hash.
+
+Once a block has been validated the next block can then be validated. However, the validity of this block includes the hash of the previous block within it and thus in order to modify a previous block, an attacker would have to redo the proof-of-work of block x and all blocks before it. 
+
+## Applications of Blockchain
+
+Blockchain is a common word in todays vocabulary. If you read a large newspaper it is quite likely that there will be reference to blockchain in some article. Blockchain has found quite a large spectrum of usage outside of digital currencies.
+
+Satoshis proof-of-work idea has found use-cases in areas of every day life such as election fraud. By using a blockchain based voting system within an election it would allow all votes to be anonymously and publicly visible on a blockchain and also allow every person with access to see the results of such an election. This allows for a guarantee of votes within an election to be counted and represented trustfully and as intended. 
+
+Blockchain has also spread to industries such as refugee aid. The Ethereum blockchain was recently used to run a United Nation's World Food Programme (WFP) campaign where refugee's were given cryptocurrency-based vouchers that could be redeemed in participating markets. This allows for people who may be skeptical of where their donations are going to ensure they are being used in the intended manner as it would be publicly visible on the Ethereum blockchain once this token had been used. 
+
+Medical records of patients are required to be consistent at all times. By moving health care records onto a blockchain based systems they would become immutable. This can be seen in the developments of the company TrustedHealth. They provide a direct connection between medical practitioners, patients and other service providers in the health sector.
+
 
 
 https://en.wikipedia.org/wiki/Satoshi_Nakamoto
 https://nakamotoinstitute.org/bitcoin/#selection-7.4-9.38
 https://www.businessinsider.com/michael-clear-denies-creating-bitcoin-2013-4?IR=T
 https://www.newyorker.com/magazine/2011/10/10/the-crypto-currency
+https://medium.com/@JimiS/what-is-a-51-attack-or-double-spend-attack-aa108db63474
+https://www.brookings.edu/blog/techtank/2018/05/30/how-blockchain-could-improve-election-transparency/
+https://www.venafi.com/blog/4-new-uses-blockchain-beyond-cryptocurrency
